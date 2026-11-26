@@ -1,13 +1,13 @@
 {
-  "paymentAmount": 10000,
+  "paymentAmount": 5000,
   "paymentMethods": {
     "paga": true,
-    "manualBank": false
+    "manualBank": true
   },
   "manualBank": {
-    "accountNumber": "",
-    "bankName": "",
-    "accountName": ""
+    "accountNumber": "0763555490",
+    "bankName": "Paga",
+    "accountName": "DONBLEZZ"
   },
   "adminName": "Donbless"
 }
