@@ -1,0 +1,17 @@
+{
+  "transactions": [
+    {
+      "id": "TXN-1795679759313",
+      "paymentId": "PAY-PAGA-1c725cf9d9c6ccaeb77db963",
+      "customerName": "Alkahain lahav",
+      "email": "laua@gmail.com",
+      "amount": 10000,
+      "method": "paga",
+      "reference": "lp_1795642890914_e5a0939588",
+      "type": "credit",
+      "status": "successful",
+      "description": "Approved customer payment",
+      "createdAt": "2026-11-26T07:55:59.094Z"
+    }
+  ]
+}
