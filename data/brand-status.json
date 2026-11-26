@@ -2,6 +2,15 @@
   "version": 1,
   "posts": [
     {
+      "id": "0cdd735e-3e93-4e2d-9cd8-664a6e069b81",
+      "brandId": "chowdeck",
+      "mediaType": "image",
+      "mediaUrl": "https://i.postimg.cc/zB1nW9mj/IMG-20261126-080351-902.jpg",
+      "caption": "",
+      "active": true,
+      "createdAt": "2026-11-26T09:01:16.871Z"
+    },
+    {
       "id": "2948dd47-a81d-4db7-ae43-98ecb05fb4ce",
       "brandId": "dangote",
       "mediaType": "image",
