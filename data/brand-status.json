@@ -2,6 +2,15 @@
   "version": 1,
   "posts": [
     {
+      "id": "68e5bb19-2970-4b18-add3-2e14437313d9",
+      "brandId": "chowdeck",
+      "mediaType": "image",
+      "mediaUrl": "https://i.postimg.cc/zB1nW9mj/IMG-20261126-080351-902.jpg",
+      "caption": "",
+      "active": true,
+      "createdAt": "2026-11-26T08:41:39.151Z"
+    },
+    {
       "id": "34ed6ada-ad59-4b75-abcb-704ab8593748",
       "brandId": "sun-king",
       "mediaType": "image",
