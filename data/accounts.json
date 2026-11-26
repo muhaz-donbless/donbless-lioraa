@@ -18,5 +18,15 @@
     "passwordHash": "227e6294c4f177e6139ab1c9fe676e610b25a044bae3a21c66fff97fb3b085ebcf15365aa0c16e371a7706bd87161bb1872b660c2bf9dfd68865d88f15461503",
     "profileImage": "",
     "createdAt": "2026-11-24T10:50:27.129Z"
+  },
+  "makakaja@gmail.com": {
+    "fullName": "Isjs ksksns",
+    "email": "makakaja@gmail.com",
+    "country": "NG",
+    "phone": "08124548448",
+    "passwordSalt": "248979cf6460d29fc54210ca6680491b",
+    "passwordHash": "6fc1003f52487ed9c8fcc1d08ebfc72b7d3a867309a262099c5ac80d35e320b629ff521efd1f768751de220424bf27bf1f70578ad05f2557ef9081a17f5f77d1",
+    "profileImage": "",
+    "createdAt": "2026-11-26T09:18:13.504Z"
   }
 }
