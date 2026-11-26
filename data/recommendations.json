@@ -1,1 +1,20 @@
-{}
+{
+  "creator-1": {
+    "creatorId": "creator-1",
+    "creatorName": "Mr Babs",
+    "products": [
+      {
+        "name": "Dangote",
+        "image": "https://raw.githubusercontent.com/muhaz-donbless/donbless-lioraa/main/uploads/recommendations/creator-1-fd644666-4346-4bb4-9aeb-53524ce8b43b-product-1.jpg",
+        "imagePath": "uploads/recommendations/creator-1-fd644666-4346-4bb4-9aeb-53524ce8b43b-product-1.jpg"
+      },
+      {
+        "name": "Sunking",
+        "image": "https://raw.githubusercontent.com/muhaz-donbless/donbless-lioraa/main/uploads/recommendations/creator-1-fd644666-4346-4bb4-9aeb-53524ce8b43b-product-2.jpg",
+        "imagePath": "uploads/recommendations/creator-1-fd644666-4346-4bb4-9aeb-53524ce8b43b-product-2.jpg"
+      }
+    ],
+    "reward": 35000,
+    "updatedAt": "2026-11-26T08:46:14.269Z"
+  }
+}
