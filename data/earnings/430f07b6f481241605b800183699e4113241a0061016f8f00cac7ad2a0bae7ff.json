@@ -2,9 +2,9 @@
   "email": "makakaja@gmail.com",
   "balances": {
     "commission": 0,
-    "leisure": 0,
+    "leisure": 35000,
     "video": 71247.28,
-    "total": 71247.28
+    "total": 106247.28
   },
   "transactions": [
     {
@@ -78,7 +78,15 @@
       "source": "brand-status",
       "referenceId": "",
       "createdAt": "2026-11-26T09:22:40.990Z"
+    },
+    {
+      "id": "product-recommendation-creator-1:1795684967767",
+      "type": "leisure",
+      "amount": 35000,
+      "source": "product-recommendation",
+      "referenceId": "",
+      "createdAt": "2026-11-26T09:25:56.950Z"
     }
   ],
-  "updatedAt": "2026-11-26T09:22:40.990Z"
+  "updatedAt": "2026-11-26T09:25:56.950Z"
 }
