@@ -1,0 +1,36 @@
+{
+  "email": "makakaja@gmail.com",
+  "balances": {
+    "commission": 0,
+    "leisure": 0,
+    "video": 21953.46,
+    "total": 21953.46
+  },
+  "transactions": [
+    {
+      "id": "chowdeck:0cdd735e-3e93-4e2d-9cd8-664a6e069b81",
+      "type": "video",
+      "amount": 6069.25,
+      "source": "brand-status",
+      "referenceId": "",
+      "createdAt": "2026-11-26T09:19:12.750Z"
+    },
+    {
+      "id": "chowdeck:68e5bb19-2970-4b18-add3-2e14437313d9",
+      "type": "video",
+      "amount": 8735.83,
+      "source": "brand-status",
+      "referenceId": "",
+      "createdAt": "2026-11-26T09:19:12.750Z"
+    },
+    {
+      "id": "moniepoint:d831ba6a-9ef1-426e-add3-deccfa342555",
+      "type": "video",
+      "amount": 7148.38,
+      "source": "brand-status",
+      "referenceId": "",
+      "createdAt": "2026-11-26T09:19:12.750Z"
+    }
+  ],
+  "updatedAt": "2026-11-26T09:19:12.750Z"
+}
