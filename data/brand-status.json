@@ -2,15 +2,6 @@
   "version": 1,
   "posts": [
     {
-      "id": "d831ba6a-9ef1-426e-add3-deccfa342555",
-      "brandId": "moniepoint",
-      "mediaType": "image",
-      "mediaUrl": "https://i.postimg.cc/zB1nW9mj/IMG-20261126-080351-902.jpg",
-      "caption": "",
-      "active": true,
-      "createdAt": "2026-11-26T09:01:38.731Z"
-    },
-    {
       "id": "34ed6ada-ad59-4b75-abcb-704ab8593748",
       "brandId": "sun-king",
       "mediaType": "image",
