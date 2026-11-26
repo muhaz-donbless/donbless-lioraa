@@ -2,15 +2,6 @@
   "version": 1,
   "posts": [
     {
-      "id": "5aabc919-2bff-4632-aa04-739dd5395303",
-      "brandId": "flutterwave",
-      "mediaType": "image",
-      "mediaUrl": "https://i.postimg.cc/zB1nW9mj/IMG-20261126-080351-902.jpg",
-      "caption": "We are open to today",
-      "active": true,
-      "createdAt": "2026-11-26T08:04:59.814Z"
-    },
-    {
       "id": "f7646d4d-7f02-4193-9c07-17693b2dc965",
       "brandId": "chowdeck",
       "mediaType": "image",
