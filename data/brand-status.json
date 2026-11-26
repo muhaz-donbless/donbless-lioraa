@@ -2,6 +2,15 @@
   "version": 1,
   "posts": [
     {
+      "id": "9367b4e6-d573-4c96-a14b-8f5f471156e5",
+      "brandId": "okash",
+      "mediaType": "image",
+      "mediaUrl": "https://i.postimg.cc/zB1nW9mj/IMG-20261126-080351-902.jpg",
+      "caption": "",
+      "active": true,
+      "createdAt": "2026-11-26T09:06:33.775Z"
+    },
+    {
       "id": "36e5d49d-4517-4d14-8aca-c62895b4e899",
       "brandId": "dangote",
       "mediaType": "image",
