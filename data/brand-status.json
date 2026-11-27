@@ -1,4 +1,14 @@
 {
   "version": 1,
-  "posts": []
+  "posts": [
+    {
+      "id": "410269c9-16cb-4600-9dc3-858533631838",
+      "brandId": "indomie",
+      "mediaType": "image",
+      "mediaUrl": "https://i.postimg.cc/zB1nW9mj/IMG-20261126-080351-902.jpg",
+      "caption": "Enjoy 😊 with good health",
+      "active": true,
+      "createdAt": "2026-11-27T20:55:52.000Z"
+    }
+  ]
 }
